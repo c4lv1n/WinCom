@@ -4,7 +4,7 @@ Secure Windows Multi-Threaded Asynchronous Socket Library
 # Brief Info
 This library will wrap around what would be standard socket connections in windows (winsock) and add a more modern, secure structure.
 ## Notice 
-This library developed in just a few days, and isn't meant to be implemented as-is in any serious environment (especially an enterprise one). It's mainly proof-of-concept code.
+This library was developed in just a few days, and isn't meant to be implemented as-is in any serious environment (especially an enterprise one). It's mainly proof-of-concept code.
 
 # Notable Features
 1. Support for multiple user defined callback routines. 
